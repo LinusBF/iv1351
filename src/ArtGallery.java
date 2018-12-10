@@ -1,5 +1,3 @@
-package iv1351;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
